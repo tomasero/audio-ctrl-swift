@@ -1,4 +1,4 @@
-# System Music Player Control
+# System Audio Controller
 
     Written in Swift 5
 
